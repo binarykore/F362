@@ -9,4 +9,4 @@ Change IMEI instruction:
 6. Press "OK"
 7. Sim Card Lock press ok then Select "OFF"
 
-( C ) - First Discover - PHCorner
+( C ) - Snowflakes and - PHCorner
