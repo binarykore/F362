@@ -7,6 +7,6 @@ Change IMEI instruction:
 4. ###1111# press Dial
 5. NCK Enter = 4917920637614788
 6. Press "OK"
-7. Sim Card Lock press ok then Select "OFF"
+7. Sim Card Lock press "OK" then Select "OFF"
 
 ( C ) - Snowflakes and - PHCorner
